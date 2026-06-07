@@ -13,8 +13,8 @@ sub Show(args as Object)
     ' ENTER YOUR DATA HERE!
     ' ====================================
     
-    STALKER_SERVER = "http://your-stalker-server.com"    ' Server address
-    STALKER_MAC = "00:1a:2b:3c:4d:5e"                    ' Your MAC address
+    STALKER_SERVER = "http://elcei.com:80"    ' Server address
+    STALKER_MAC = "00:1A:79:B5:47:08"                    ' Your MAC address
     
     ' ====================================
     
